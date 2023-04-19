@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/AX-8vGTq)
+# Overview
+
+It is public repository of assignment `"labrabota4"`
+
+# Usage
+
+Andreeva Anastasia, group 13
+
+# Building
+
+List of repository branches:
+
+- main
+
+- examples (examples from task 4)
+
+# Additional Notes
+
+report: https://docs.google.com/document/d/1C0F99xPccO11yKgOnT0GdTPBko-F-DMu/edit?usp=share_link&ouid=112098559413228411562&rtpof=true&sd=true
